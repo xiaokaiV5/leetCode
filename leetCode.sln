@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findSingleNumber", "findSin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "isHappyNum", "isHappyNum\isHappyNum.vcxproj", "{6DB188E2-63C8-4FFD-9E1E-406601ABC262}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multithread", "Multithread\Multithread.vcxproj", "{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{6DB188E2-63C8-4FFD-9E1E-406601ABC262}.Release|x64.Build.0 = Release|x64
 		{6DB188E2-63C8-4FFD-9E1E-406601ABC262}.Release|x86.ActiveCfg = Release|Win32
 		{6DB188E2-63C8-4FFD-9E1E-406601ABC262}.Release|x86.Build.0 = Release|Win32
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Debug|x64.ActiveCfg = Debug|x64
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Debug|x64.Build.0 = Debug|x64
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Debug|x86.ActiveCfg = Debug|Win32
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Debug|x86.Build.0 = Debug|Win32
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Release|x64.ActiveCfg = Release|x64
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Release|x64.Build.0 = Release|x64
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Release|x86.ActiveCfg = Release|Win32
+		{738B5BCB-F4D1-464F-BAF6-C11E4037BF8B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
